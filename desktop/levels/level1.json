@@ -1,0 +1,153 @@
+[
+{
+	class: com.mygdx.game.SpawnData
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 50
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 20
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 52
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 22
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 1000
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 50
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: ARROWCOUNTPOWERUP
+	spawnTime: 1001
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 1550
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 500
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 500
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 500
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 500
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 4050
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 4500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 4550
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 5000
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 5050
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 5500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 5550
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 6000
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 6050
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 6500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 6550
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 7000
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: TRIPLEBIRD
+	spawnTime: 7050
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: ARROWCOUNTPOWERUP
+	spawnTime: 5000
+	spawnRight: false
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDPOWERUP
+	spawnTime: 11000
+	spawnRight: false
+}
+]

@@ -1,0 +1,153 @@
+[
+{
+	class: com.mygdx.game.SpawnData
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 50
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 550
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 1000
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 1050
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 1500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 1550
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 2000
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 2050
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 2500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 2550
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 3000
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 3050
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 3500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 3550
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 4000
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 4050
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 4500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 4550
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 5000
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 5050
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 5500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 5550
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 6000
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 6050
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 6500
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 6550
+}
+{
+	class: com.mygdx.game.SpawnData
+	spawnTime: 7000
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDBIRD
+	spawnTime: 7050
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: ARROWCOUNTPOWERUP
+	spawnTime: 5000
+	spawnRight: false
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: DRAWPOWERPOWERUP
+	spawnTime: 10000
+}
+{
+	class: com.mygdx.game.SpawnData
+	type: SPEEDPOWERUP
+	spawnTime: 11000
+	spawnRight: false
+}
+]

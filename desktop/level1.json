@@ -1,0 +1,1 @@
+[{class:com.mygdx.game.SpawnData},{class:com.mygdx.game.SpawnData,type:SPEEDBIRD,spawnTime:50},{class:com.mygdx.game.SpawnData,type:ARROWCOUNTPOWERUP,spawnTime:5000,spawnRight:false},{class:com.mygdx.game.SpawnData,type:DRAWPOWERPOWERUP,spawnTime:10000},{class:com.mygdx.game.SpawnData,type:SPEEDPOWERUP,spawnTime:11000,spawnRight:false}]
